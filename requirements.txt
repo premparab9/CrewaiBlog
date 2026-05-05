@@ -1,0 +1,4 @@
+crewai
+youtube-transcript-api
+openai
+python-dotenv
